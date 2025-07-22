@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/{tasnim-88}/count.svg" alt="Visitor's Count" >
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tasnim!;" />
+  </h1>
+  A cybersecurity enthusiast
+  - 🌱 I'm currently learning cybersecurity. 
+<hr>
+  
+  ## 🛠️ Languages and Tools
 
-<!--
-**tasnim-88/tasnim-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs,react,html,css,tailwind,js,kali,linux,bash,git,github&perline=10" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tasnim-88&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="tasnim-88's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-88&theme=transparent&count_private=true&border_radius=10&locale=en" alt="tasnim-88's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim-88&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="tasnim-88's Most Used Languages" />
+</div>
+
+<hr>
+  
+</div>
