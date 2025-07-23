@@ -4,8 +4,9 @@
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tasnim!;" />
   </h1>
-  A cybersecurity enthusiast
-  - 🌱 I'm currently learning cybersecurity. 
+  <p align="center">A cybersecurity enthusiast</p>
+  
+  - 🌱 I'm currently learning cybersecurity.  
 <hr>
   
   ## 🛠️ Languages and Tools
