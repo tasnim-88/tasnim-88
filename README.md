@@ -1,6 +1,6 @@
 <div align="center">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/{tasnim-88}/count.svg" alt="Visitor's Count" >
+<!--   <p>Visitor Count</p> -->
+  <img src="https://komarev.com/ghpvc/?username=tasnim-88&style=for-the-badge">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tasnim!;" />
   </h1>
