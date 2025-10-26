@@ -1,10 +1,9 @@
-<div align="center">
+<div>
 <!--   <p>Visitor Count</p> -->
   <img src="https://komarev.com/ghpvc/?username=tasnim-88&style=for-the-badge">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tasnim!;" />
   </h1>
-  <p align="center">A cybersecurity enthusiast</p>
   
   - 🌱 I'm currently learning cybersecurity.  
 <hr>
@@ -13,7 +12,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs,react,html,css,tailwind,js,kali,linux,bash,git,github&perline=10" />
 </p>
 
