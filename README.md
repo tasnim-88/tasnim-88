@@ -10,18 +10,26 @@
 <h2>🔥 About Me </h2>
 <br>
 <p align="">
-  Hi, I'm Tasnim Mahmud, A passionate web developer 
+  I'm an aspiring MERN Stack Developer passionate about building dynamic, user-friendly, and impactful web applications. I enjoy turning ideas into full-stack solutions—from intuitive front-end interfaces to robust back-end logic. 
   <br>
   <br>
-  🔬 I'm currently studying for my undergraduate at BUBT, Department of Computer Science & Engineering
-  <br>
-  💻 I love to learn and create new staff
-  <br>
-  📚 I’m currently learning web development
+  
+  - 🔭 I’m currently working on **real-world full-stack projects to strengthen my skills**
+
+  - 🌱 I’m currently learning **Next.js**
+
+  - 👯 I’m looking to collaborate with **other developers and contribute to open-source community**
+
+  - 💻 I love to learn and create new staff
+  
+  - 📫 How to reach me: <a href="mailto: mahmudtasnim7@gmail.com">mahmudtasnim7@gmail.com</a>
+
+  - ⚡ Fun fact **I grow my skills one project at a time and I never stop learning.**
+  
   <!-- <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
-  📫 How to reach me: <a href="mailto: mahmudtasnim7@gmail.com">mahmudtasnim7@gmail.com</a>
+  
 </p>
 
 <hr>
