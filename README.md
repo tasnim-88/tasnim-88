@@ -43,11 +43,30 @@
 <h2 align="">⚡ Stats ⚡</h2>
 <br>
 <p align=>
-  <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnim-88&theme=transparent&show_icons=true&locale=en" alt="tasnim-88" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-88&theme=transparent&count_private=true&border_radius=10&locale=en" alt="tasnim-88's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim-88&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="tasnim-88's Most Used Languages" />
+<div align="flex ">
+
+  <!-- GitHub Stats (from first block) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tasnim-88&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+    alt="tasnim-88 GitHub Stats"
+  />
+
+  <!-- GitHub Streak (from first block) -->
+  <img 
+    width="390"
+    src="https://nirzak-streak-stats.vercel.app/?user=tasnim-88&theme=dark&hide_border=false" 
+    alt="tasnim-88 GitHub Streak"
+  />
+
+  <!-- Top Languages (from first block) -->
+  <img 
+    width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="tasnim-88 Most Used Languages"
+  />
+
 </div>
+
 
   <br>
 
